@@ -10,9 +10,9 @@ This is a simple polling application built with Django framework. It allows supe
  1. Download the package
  2. Run `python manage.py runserver`
  3. You should see a landing page at http://127.0.0.1:8000/
- 4. To login as a superuser
-  - ID: admin@gmali.com
-  - PW: 1234
-
+ 4. To login as a superuser, go to  http://127.0.0.1:8000/admin
+    - ID: admin@gmali.com
+    - PW: 1234
+    
 # Demo
 <img src="/demo.gif" width="500">
